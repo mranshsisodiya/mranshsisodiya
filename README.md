@@ -1,91 +1,104 @@
 # Hi there 👋, I'm Ansh Sisodiya
 
-### AI Enthusiast • Problem Solver
+### Computer Science Student • Java Developer • DSA Learner
 
-I'm a developer who enjoys building products that blend great user experiences with practical technology. I love exploring new technologies, experimenting with ideas, and turning concepts into real-world applications.
+I'm a Computer Science student passionate about software development, problem solving, and continuous self-improvement. Currently, I'm focused on mastering Java, Data Structures & Algorithms, and building a strong foundation for software engineering internships and technical interviews.
+
+---
 
 ## 🚀 About Me
 
-- 💻 Passionate about Full-Stack Development
-- 🤖 Interested in Artificial Intelligence and Automation
-- 🌐 Building modern web experiences with scalable architectures
-- 📱 Exploring cross-platform and mobile-focused solutions
-- 🎨 Focused on clean UI, performance, and user experience
-- 📚 Constantly learning and improving every day
+- 🎓 Computer Science Undergraduate
+- ☕ Learning Java from fundamentals to advanced concepts
+- 🧠 Actively studying Data Structures & Algorithms
+- 💻 Building coding discipline through daily practice
+- 🐧 Linux enthusiast (Fedora KDE user)
+- 📚 Always looking for ways to learn more effectively
+
+---
+
+## 🎯 Current Goals
+
+- Master Java Programming
+- Become highly proficient in DSA
+- Solve LeetCode problems consistently
+- Build strong development projects
+- Prepare for Software Engineering internships
+- Develop problem-solving skills used in top tech companies
+- Contribute to Open Source projects
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-- JavaScript
-- Python
-- HTML5
-- CSS3
+- Java
+- C (Basic)
+- SQL (Learning)
 
-### Frontend
-- React
-- Tailwind CSS
-- Responsive Web Design
-- Modern UI/UX Principles
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- Authentication Systems
-
-### Database
-- Firebase
-
-### AI & Automation
-- AI Integrations
-- Agent-Based Systems
-- Workflow Automation
-- Prompt Engineering
+### Computer Science
+- Data Structures
+- Algorithms
+- Time & Space Complexity
+- Object-Oriented Programming
+- Problem Solving
 
 ### Tools & Platforms
-- Git & GitHub
-- VS Code
+- Git
+- GitHub
 - Linux
-- Vercel
+- Fedora KDE
+- VS Code
+- IntelliJ IDEA
 
 ---
 
-## 🎯 What I Enjoy Building
+## 📚 Currently Learning
 
-- Full-stack web applications
-- AI-powered tools and communities
-- Social and collaborative platforms
-- Automation workflows
-- Developer-focused utilities
-- Modern portfolio and branding experiences
+### Programming
+- Advanced Java
+- Object-Oriented Design
+- Exception Handling
+- Collections Framework
+- Multithreading
+
+### Data Structures & Algorithms
+- Arrays
+- Searching Algorithms
+- Sorting Algorithms
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Graphs
+- Dynamic Programming
+
+### Computer Science Subjects
+- Artificial Intelligence
+- Discrete Mathematics
+- Linear Algebra
+- Digital System Design
 
 ---
 
-## 🌱 Currently Learning
+## 📈 2026 Goals
 
-- Advanced AI Systems
-- Scalable Backend Architectures
-- Cloud Infrastructure
-- System Design
-- Open Source Collaboration
-
----
-
-## 📈 Developer Mindset
-
-> I enjoy solving problems, building useful products, and continuously pushing my skills beyond my comfort zone.
+- Solve 300+ DSA problems
+- Build multiple Java projects
+- Create a strong GitHub portfolio
+- Secure a Software Engineering Internship
+- Develop consistent study habits
+- Improve communication and technical skills
 
 ---
 
 ## 🤝 Let's Connect
 
-- Open to collaborations
-- Open Source Contributions
-- Building interesting products
-- Learning from other developers
+- Open to learning opportunities
+- Open Source Collaboration
+- Student Developer Communities
+- Software Engineering Discussions
 
 ---
 
-⭐ Turning ideas into products, one commit at a time.
+⭐ From beginner to software engineer — one commit, one problem, and one project at a time.
